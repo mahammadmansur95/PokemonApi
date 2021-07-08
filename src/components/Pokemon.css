@@ -1,0 +1,26 @@
+.heading{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: large;
+}
+
+.img_container{
+    margin: auto;
+}
+
+.image{
+    display: block;
+    height: 250px;
+    width: 250px;
+    margin: auto;
+}
+
+.details{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
+.h{
+    font-size: medium;
+}
